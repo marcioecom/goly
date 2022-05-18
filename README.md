@@ -14,9 +14,9 @@
 docker run --name postgres -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=admin -d postgres:14
 ```
 
-- Initialize Go project
+- Install project dependencies
 ```sh
-go mod init <project-name>
+go get -d ./...
 ```
 <br/>
 
