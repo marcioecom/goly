@@ -67,7 +67,7 @@ Properties
 > Redirect: Url to redirect.
 
 > Goly: Unique name of goly.
- - In this case was *"rfBd56ti"*, so the link will be *"goly.com/r/rfBd56ti"*
+ >> In this case was *"rfBd56ti"*, so the link will be *"goly.com/r/rfBd56ti"*
 
 > Clicked: Number of clicks the link received.
 
